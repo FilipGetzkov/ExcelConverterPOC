@@ -1,10 +1,11 @@
 # ExcelConverterPOC
-This is simple spring project with apache poi integration.
+This is simple spring project with apache poi integration. Its transfer data from excel to sql DB.
 
 Prerequisite:
 - Java 17
 - Maven
 - Spring
+- Hibernate
 - Apache POI
 - Azure sql edge/ Ms sql server
 
